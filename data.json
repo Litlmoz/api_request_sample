@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 8834,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Seekingalpha.com"
+      },
+      "author": "Equity Management Academy",
+      "title": "Grayscale Bitcoin Trust: Potential Demand Area Identified",
+      "description": "When GBTC came down into the area of 12.06, with a second low at 11.99, and closed above it, the market activated a trigger point or a buy signal. The market th",
+      "url": "https://seekingalpha.com/article/4277278-grayscale-bitcoin-trust-potential-demand-area-identified",
+      "urlToImage": "https://static.seekingalpha.com/uploads/2019/7/23/48753845-15639237050822544_origin.png",
+      "publishedAt": "2019-07-25T00:07:00Z",
+      "content": "On July 15, we published a report entitled, \"GBTC Bitcoin Trust: Weekly Trend Momentum Turned Bearish.\" In this report, we had the market anticipating the buy 2 (B2) level in the vicinity of 12.97. We expected this trend to come down. When we wrote the report… [+6559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsbtc.com"
+      },
+      "author": "Cole Petersen",
+      "title": "Bitcoin (BTC) Loses Multiple Parabolic Trend Lines as Bears Roar",
+      "description": "Bitcoin and the aggregated crypto markets have been facing an extension of the significant downwards pressure that they first incurred last weekend when BTC sharply moved to just over $11,000 before it reeled down to its current price levels. Now, analysts ar…",
+      "url": "https://www.newsbtc.com/2019/07/25/bitcoin-btc-loses-multiple-parabolic-trend-lines-as-bears-roar/",
+      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/07/shutterstock_1064227739-6-1200x780.jpg",
+      "publishedAt": "2019-07-25T00:00:58Z",
+      "content": "Bitcoin and the aggregated crypto markets have been facing an extension of the significant downwards pressure that they first incurred last weekend when BTC sharply moved to just over $11,000 before it reeled down to its current price levels.\r\nNow, analysts a… [+2641 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hacked.com"
+      },
+        "author": "Kayla Matthews",
+        "title": "Over Half of All Crypto Is Fake, So How Do We Fight It?",
+        "description": "Although bitcoin was the first cryptocurrency, hundreds of others followed it. If you’re investing in the altcoin universe, you likely want to research how active each cryptocurrency is on exchanges. Unfortunately, that technique might give bogus results. Two…",
+        "url": "https://hacked.com/over-half-of-all-crypto-is-fake-so-how-do-we-fight-it/",
+        "urlToImage": "https://hacked.com/wp-content/uploads/2019/07/Fake-cryptocurrency.jpg",
+        "publishedAt": "2019-07-24T23:55:00Z",
+        "content": "Although bitcoin was the first cryptocurrency, hundreds of others followed it. If you’re investing in the altcoin universe, you likely want to research how active each cryptocurrency is on exchanges. Unfortunately, that technique might give bogus results.\r\nTw… [+4826 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name":"Abril.com.br"
+        },
+        "author": "Eduardo Gonçalves",
+        "title": "Golpista, DJ, manicure e motorista: conheça os quatro alvos da PF",
+        "description": "PF deflagrou nesta terça-feira operação contra os supostos hackers que invadiram as contas no Telegram dos ministros Sergio Moro e Paulo Guedes",
+        "url": "https://veja.abril.com.br/brasil/golpista-dj-manicure-e-motorista-conheca-os-quatro-alvos-da-pf/",
+        "urlToImage": "https://abrilveja.files.wordpress.com/2019/07/design-sem-nome-17.jpg?quality=70&strip=info&w=680&h=453&crop=1",
+        "publishedAt": "2019-07-24T23:35:24Z",
+        "content": "A Polícia Federal prendeu nesta terça-feira na Operação Spoofing quatro pessoas suspeitas de integrarem uma “organização criminosa” responsável por “violar o sigilo telefônico de diversas autoridades públicas brasileiras via invasão do aplicativo Telegram”, c… [+2777 chars]"
+      }
+    ]
+  }
